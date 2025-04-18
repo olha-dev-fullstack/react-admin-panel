@@ -1,4 +1,3 @@
-import { BarChart } from "recharts";
 import ChartBox from "../../components/chartBox/ChartBox";
 import TopBox from "../../components/topBox/TopBox";
 import {
